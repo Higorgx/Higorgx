@@ -15,3 +15,4 @@
 
 💻 Desenvolvedor apaixonado por Tecnologia e ajudar pessoas!
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=higorgx&show_icons=true&theme=radical)
