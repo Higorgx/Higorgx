@@ -15,4 +15,6 @@
 
 💻 Desenvolvedor apaixonado por Tecnologia e ajudar pessoas!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=higorgx&show_icons=true&theme=radical)
+![Higor's GitHub stats](https://github-readme-stats.vercel.app/api?username=higorgx&show_icons=true&theme=radical)
+
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=higorgx&layout=compact)
